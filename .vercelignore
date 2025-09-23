@@ -1,0 +1,25 @@
+# Node modules (Vercel installs dependencies automatically)
+node_modules
+
+# Local environment variables
+.env
+.env.local
+.env.development
+.env.production
+
+# Logs
+*.log
+
+# Vite cache
+.vite
+
+# Git files
+.git
+.gitignore
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backend files (if you have server code you don’t want to deploy with frontend)
+generateSongs.js
