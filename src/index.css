@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden; 
+}
+
+body {
+  @apply bg-darkBg text-white font-sans;
+}
+
+.scrollbar-hide {
+  overflow: overlay; 
+  -ms-overflow-style: none; 
+  scrollbar-width: none;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+}
+
+
+

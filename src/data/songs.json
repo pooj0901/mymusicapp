@@ -1,0 +1,830 @@
+[
+  {
+    "id": 1,
+    "title": "90s1",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/90s1.mp3",
+    "cover": ""
+  },
+  {
+    "id": 2,
+    "title": "90s2",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/90s2.mp3",
+    "cover": ""
+  },
+  {
+    "id": 3,
+    "title": "90s3",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/90s3.mp3",
+    "cover": ""
+  },
+  {
+    "id": 4,
+    "title": "90s4",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/90s4.mp3",
+    "cover": ""
+  },
+  {
+    "id": 5,
+    "title": "90s5",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/90s5.mp3",
+    "cover": ""
+  },
+  {
+    "id": 6,
+    "title": "90s6",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/90s6.mp3",
+    "cover": ""
+  },
+  {
+    "id": 7,
+    "title": "arijit1",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/arijit1.mp3",
+    "cover": ""
+  },
+  {
+    "id": 8,
+    "title": "arijit2",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/arijit2.mp3",
+    "cover": ""
+  },
+  {
+    "id": 9,
+    "title": "arijit3",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/arijit3.mp3",
+    "cover": ""
+  },
+  {
+    "id": 10,
+    "title": "arijit4",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/arijit4.mp3",
+    "cover": ""
+  },
+  {
+    "id": 11,
+    "title": "ashiqui1",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/ashiqui1.mp3",
+    "cover": ""
+  },
+  {
+    "id": 12,
+    "title": "ashiqui2",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/ashiqui2.mp3",
+    "cover": ""
+  },
+  {
+    "id": 13,
+    "title": "ashiqui3",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/ashiqui3.mp3",
+    "cover": ""
+  },
+  {
+    "id": 14,
+    "title": "ashiqui4",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/ashiqui4.mp3",
+    "cover": ""
+  },
+  {
+    "id": 15,
+    "title": "ashiqui5",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/ashiqui5.mp3",
+    "cover": ""
+  },
+  {
+    "id": 16,
+    "title": "ashiqui6",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/ashiqui6.mp3",
+    "cover": ""
+  },
+  {
+    "id": 17,
+    "title": "devotional1",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/devotional1.mp3",
+    "cover": ""
+  },
+  {
+    "id": 18,
+    "title": "devotional2",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/devotional2.mp3",
+    "cover": ""
+  },
+  {
+    "id": 19,
+    "title": "devotional3",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/devotional3.mp3",
+    "cover": ""
+  },
+  {
+    "id": 20,
+    "title": "devotional4",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/devotional4.mp3",
+    "cover": ""
+  },
+  {
+    "id": 21,
+    "title": "english1",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/english1.mp3",
+    "cover": ""
+  },
+  {
+    "id": 22,
+    "title": "english2",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/english2.mp3",
+    "cover": ""
+  },
+  {
+    "id": 23,
+    "title": "english3",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/english3.mp3",
+    "cover": ""
+  },
+  {
+    "id": 24,
+    "title": "english4",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/english4.mp3",
+    "cover": ""
+  },
+  {
+    "id": 25,
+    "title": "english5",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/english5.mp3",
+    "cover": ""
+  },
+  {
+    "id": 26,
+    "title": "english6",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/english6.mp3",
+    "cover": ""
+  },
+  {
+    "id": 27,
+    "title": "ganpati1",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/ganpati1.mp3",
+    "cover": ""
+  },
+  {
+    "id": 28,
+    "title": "ganpati2",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/ganpati2.mp3",
+    "cover": ""
+  },
+  {
+    "id": 29,
+    "title": "ganpati3",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/ganpati3.mp3",
+    "cover": ""
+  },
+  {
+    "id": 30,
+    "title": "hindi1",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/hindi1.mp3",
+    "cover": ""
+  },
+  {
+    "id": 31,
+    "title": "hindi2",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/hindi2.mp3",
+    "cover": ""
+  },
+  {
+    "id": 32,
+    "title": "hindi3",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/hindi3.mp3",
+    "cover": ""
+  },
+  {
+    "id": 33,
+    "title": "hindi4",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/hindi4.mp3",
+    "cover": ""
+  },
+  {
+    "id": 34,
+    "title": "hindi5",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/hindi5.mp3",
+    "cover": ""
+  },
+  {
+    "id": 35,
+    "title": "hindi6",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/hindi6.mp3",
+    "cover": ""
+  },
+  {
+    "id": 36,
+    "title": "holi1",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/holi1.mp3",
+    "cover": ""
+  },
+  {
+    "id": 37,
+    "title": "holi2",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/holi2.mp3",
+    "cover": ""
+  },
+  {
+    "id": 38,
+    "title": "holi3",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/holi3.mp3",
+    "cover": ""
+  },
+  {
+    "id": 39,
+    "title": "javed1",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/javed1.mp3",
+    "cover": ""
+  },
+  {
+    "id": 40,
+    "title": "javed2",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/javed2.mp3",
+    "cover": ""
+  },
+  {
+    "id": 41,
+    "title": "javed3",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/javed3.mp3",
+    "cover": ""
+  },
+  {
+    "id": 42,
+    "title": "javed4",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/javed4.mp3",
+    "cover": ""
+  },
+  {
+    "id": 43,
+    "title": "javed5",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/javed5.mp3",
+    "cover": ""
+  },
+  {
+    "id": 44,
+    "title": "kk1",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/kk1.mp3",
+    "cover": ""
+  },
+  {
+    "id": 45,
+    "title": "kk2",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/kk2.mp3",
+    "cover": ""
+  },
+  {
+    "id": 46,
+    "title": "kk3",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/kk3.mp3",
+    "cover": ""
+  },
+  {
+    "id": 47,
+    "title": "kk4",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/kk4.mp3",
+    "cover": ""
+  },
+  {
+    "id": 48,
+    "title": "kk5",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/kk5.mp3",
+    "cover": ""
+  },
+  {
+    "id": 49,
+    "title": "kk6",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/kk6.mp3",
+    "cover": ""
+  },
+  {
+    "id": 50,
+    "title": "kpop1",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/kpop1.mp3",
+    "cover": ""
+  },
+  {
+    "id": 51,
+    "title": "kpop2",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/kpop2.mp3",
+    "cover": ""
+  },
+  {
+    "id": 52,
+    "title": "kpop3",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/kpop3.mp3",
+    "cover": ""
+  },
+  {
+    "id": 53,
+    "title": "kpop4",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/kpop4.mp3",
+    "cover": ""
+  },
+  {
+    "id": 54,
+    "title": "kpop5",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/kpop5.mp3",
+    "cover": ""
+  },
+  {
+    "id": 55,
+    "title": "kpop6",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/kpop6.mp3",
+    "cover": ""
+  },
+  {
+    "id": 56,
+    "title": "marathi1",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/marathi1.mp3",
+    "cover": ""
+  },
+  {
+    "id": 57,
+    "title": "marathi2",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/marathi2.mp3",
+    "cover": ""
+  },
+  {
+    "id": 58,
+    "title": "marathi3",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/marathi3.mp3",
+    "cover": ""
+  },
+  {
+    "id": 59,
+    "title": "marathi4",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/marathi4.mp3",
+    "cover": ""
+  },
+  {
+    "id": 60,
+    "title": "marathi5",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/marathi5.mp3",
+    "cover": ""
+  },
+  {
+    "id": 61,
+    "title": "marathi6",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/marathi6.mp3",
+    "cover": ""
+  },
+  {
+    "id": 62,
+    "title": "metro1",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/metro1.mp3",
+    "cover": ""
+  },
+  {
+    "id": 63,
+    "title": "metro2",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/metro2.mp3",
+    "cover": ""
+  },
+  {
+    "id": 64,
+    "title": "metro3",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/metro3.mp3",
+    "cover": ""
+  },
+  {
+    "id": 65,
+    "title": "metro4",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/metro4.mp3",
+    "cover": ""
+  },
+  {
+    "id": 66,
+    "title": "metro5",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/metro5.mp3",
+    "cover": ""
+  },
+  {
+    "id": 67,
+    "title": "metro6",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/metro6.mp3",
+    "cover": ""
+  },
+  {
+    "id": 68,
+    "title": "navratri1",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/navratri1.mp3",
+    "cover": ""
+  },
+  {
+    "id": 69,
+    "title": "navratri2",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/navratri2.mp3",
+    "cover": ""
+  },
+  {
+    "id": 70,
+    "title": "navratri3",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/navratri3.mp3",
+    "cover": ""
+  },
+  {
+    "id": 71,
+    "title": "punjabi1",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/punjabi1.mp3",
+    "cover": ""
+  },
+  {
+    "id": 72,
+    "title": "punjabi2",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/punjabi2.mp3",
+    "cover": ""
+  },
+  {
+    "id": 73,
+    "title": "punjabi3",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/punjabi3.mp3",
+    "cover": ""
+  },
+  {
+    "id": 74,
+    "title": "punjabi4",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/punjabi4.mp3",
+    "cover": ""
+  },
+  {
+    "id": 75,
+    "title": "punjabi5",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/punjabi5.mp3",
+    "cover": ""
+  },
+  {
+    "id": 76,
+    "title": "punjabi6",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/punjabi6.mp3",
+    "cover": ""
+  },
+  {
+    "id": 77,
+    "title": "shreya1",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/shreya1.mp3",
+    "cover": ""
+  },
+  {
+    "id": 78,
+    "title": "shreya2",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/shreya2.mp3",
+    "cover": ""
+  },
+  {
+    "id": 79,
+    "title": "shreya3",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/shreya3.mp3",
+    "cover": ""
+  },
+  {
+    "id": 80,
+    "title": "shreya4",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/shreya4.mp3",
+    "cover": ""
+  },
+  {
+    "id": 81,
+    "title": "trending1",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/trending1.mp3",
+    "cover": ""
+  },
+  {
+    "id": 82,
+    "title": "trending2",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/trending2.mp3",
+    "cover": ""
+  },
+  {
+    "id": 83,
+    "title": "trending3",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/trending3.mp3",
+    "cover": ""
+  },
+  {
+    "id": 84,
+    "title": "trending4",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/trending4.mp3",
+    "cover": ""
+  },
+  {
+    "id": 85,
+    "title": "trending5",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/trending5.mp3",
+    "cover": ""
+  },
+  {
+    "id": 86,
+    "title": "trending6",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/trending6.mp3",
+    "cover": ""
+  },
+  {
+    "id": 87,
+    "title": "yehjawani1",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/yehjawani1.mp3",
+    "cover": ""
+  },
+  {
+    "id": 88,
+    "title": "yehjawani2",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/yehjawani2.mp3",
+    "cover": ""
+  },
+  {
+    "id": 89,
+    "title": "yehjawani3",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/yehjawani3.mp3",
+    "cover": ""
+  },
+  {
+    "id": 90,
+    "title": "yehjawani4",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/yehjawani4.mp3",
+    "cover": ""
+  },
+  {
+    "id": 91,
+    "title": "yehjawani5",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/yehjawani5.mp3",
+    "cover": ""
+  },
+  {
+    "id": 92,
+    "title": "yehjawani6",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "language": "Unknown",
+    "audio": "/songs/yehjawani6.mp3",
+    "cover": ""
+  }
+]
