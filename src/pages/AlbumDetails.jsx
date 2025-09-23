@@ -49,8 +49,8 @@ const albums = [
     songs: [
       { id: 19, title: "Namo Namo", artist: "Amit Trivedi", cover: "/images/kedarnath.jpg", audio: "/songs/kedarnath1.mp3"},
       { id: 20, title: "Sweetheart", artist: "Amit Tivedi, Dev Negi", cover: "/images/kedarnath.jpg", audio: "/songs/kedarnath2.mp3" },
-      { id: 21, title: "Qaafirana", artist: "Arijit Singh, Amit Trivedi, Nikhita Gandhi", cover: "/images/kedarnath.jpg", audio: "/songs/kedarnath3.mp3" },
-      { id: 22, title: "Jaan Nisar", artist: "Amit Trivedi, Asees kaur", cover: "/images/kedarnath.jpg", audio: "/songs/kedarnath4.mp3"},
+      { id: 21, title: "Qaafirana", artist: "Arijit Singh, Amit Trivedi, Nikhita Gandhi", cover: "/images/kedarnath.jpg", audio: "/songs/kedarnath4.mp3" },
+      { id: 22, title: "Jaan Nisar", artist: "Amit Trivedi, Asees kaur", cover: "/images/kedarnath.jpg", audio: "/songs/kedarnath3.mp3"},
     ],
   },
 ];
