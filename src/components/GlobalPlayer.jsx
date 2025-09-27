@@ -64,10 +64,9 @@ export default function GlobalPlayer() {
 
   return (
     <>
-   
-      <div className="fixed bottom-6 left-1/2 transform -translate-x-1/2 w-11/12 md:w-3/4 lg:w-1/2 backdrop-blur-2xl bg-white/10 border border-white/20 rounded-3xl p-4 flex items-center gap-6 z-50 shadow-xl">
-        
-       
+      
+      <div className="fixed bottom-6 left-1/2 transform -translate-x-1/2 w-11/12 md:w-3/4 lg:w-1/2 backdrop-blur-2xl bg-white/10 border border-white/20 rounded-3xl p-4 flex items-center gap-4 md:gap-6 z-50 shadow-xl">
+      
         <img
           src={currentSong.image || currentSong.cover || "/default-cover.jpg"}
           alt={currentSong.title}
@@ -78,8 +77,6 @@ export default function GlobalPlayer() {
         <div className="flex-1 flex flex-col justify-center overflow-hidden">
           <p className="text-white font-semibold text-lg truncate">{currentSong.title || "Unknown Title"}</p>
           <p className="text-gray-300 text-sm truncate">{currentSong.artist || "Unknown Artist"}</p>
-
-          
           <div className="h-2 w-full bg-gray-700 rounded-full mt-2 overflow-hidden">
             <div
               className="h-full bg-gradient-to-r from-green-400 to-green-600 transition-all duration-300"
@@ -88,7 +85,8 @@ export default function GlobalPlayer() {
           </div>
         </div>
 
-        <div className="flex items-center gap-4 text-white text-xl">
+       
+        <div className="flex items-center gap-3 md:gap-4 text-white text-xl">
           <button
             onClick={() => toggleLike(currentSong)}
             className="hover:text-pink-500 transition-all duration-200"
@@ -133,27 +131,33 @@ export default function GlobalPlayer() {
         </div>
       </div>
 
-    
+     
       {showPlaylistModal && (
-        <div className="fixed inset-0 bg-black bg-opacity-60 flex items-center justify-center z-50">
-          <div className="w-11/12 md:w-2/3 lg:w-1/2 p-8 rounded-3xl backdrop-blur-2xl bg-white/10 border border-white/20 shadow-2xl flex flex-col gap-6 relative">
+        <div
+          className="fixed inset-0 bg-black bg-opacity-60 flex items-center justify-center z-50 p-4 sm:p-6"
+          onClick={() => setShowPlaylistModal(false)}
+        >
+          <div
+            className="w-full max-w-md sm:max-w-lg md:max-w-2xl lg:max-w-3xl p-6 sm:p-8 rounded-3xl backdrop-blur-2xl bg-white/10 border border-white/20 shadow-2xl flex flex-col gap-6 relative"
+            onClick={(e) => e.stopPropagation()} // prevent modal close when clicking inside
+          >
             <button
               onClick={() => setShowPlaylistModal(false)}
               className="absolute top-4 right-4 text-gray-200 hover:text-white text-2xl transition-colors duration-200"
             >
               <FaTimes />
             </button>
-            <h2 className="text-3xl font-bold text-white">Add to Playlist</h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-white text-center sm:text-left">Add to Playlist</h2>
 
-            <div className="flex flex-col gap-3 max-h-80 overflow-y-auto">
+            <div className="flex flex-col gap-3 max-h-64 sm:max-h-80 overflow-y-auto">
               {playlists.length === 0 ? (
-                <p className="text-gray-300">No playlists yet.</p>
+                <p className="text-gray-300 text-center sm:text-left">No playlists yet.</p>
               ) : (
                 playlists.map((pl) => (
                   <button
                     key={pl.id}
                     onClick={() => handleAddToPlaylist(pl.id)}
-                    className="text-left text-white hover:text-green-400 px-4 py-2 rounded-xl backdrop-blur-md bg-white/5 hover:bg-white/10 transition-colors duration-200"
+                    className="text-left text-white hover:text-green-400 px-4 py-2 rounded-xl backdrop-blur-md bg-white/5 hover:bg-white/10 transition-colors duration-200 truncate"
                   >
                     {pl.name}
                   </button>
@@ -161,7 +165,7 @@ export default function GlobalPlayer() {
               )}
             </div>
 
-            <div className="mt-4 flex gap-3">
+            <div className="mt-4 flex flex-col sm:flex-row gap-3">
               <input
                 type="text"
                 placeholder="New playlist..."
